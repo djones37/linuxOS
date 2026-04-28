@@ -1,4 +1,4 @@
-# linuxOSndfnbgf	Managing users and groups
+# linux Managing users and groups
 
 Create users test1, test2, and admin. 
 	useradd test1
@@ -9,4 +9,4 @@ Create a group named helpdesk and add the newly created users to the group.
 	groupadd helpdesk
 	groupadd -G helpdesk test1 test2 admin 
 
-bdfghsdfhgs
+
